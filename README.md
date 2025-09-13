@@ -75,7 +75,7 @@ for i in range(e):
     graph[u].append(v)
     graph[v].append(u)
 # print(graph)
-start = "A"
+start = " "
 visited = defaultdict(bool)
 path = []
 traversedpath = dfs(graph, start, visited, path)
@@ -99,6 +99,8 @@ F H <BR>
 <h3>Sample Output</h3>
 <hr>
 ['A', 'B', 'E', 'D', 'C', 'G', 'F', 'H']
+<img width="857" height="318" alt="image" src="https://github.com/user-attachments/assets/06498ed9-fd0f-40d8-a422-2e8b3fba6d55" />
+
 
 <hr>
 
@@ -115,6 +117,7 @@ F H <BR>
 <h3>Sample Output</h3>
 <hr>
 ['0', '1', '2', '3', '4']
+
 
 <hr>
 <h3>Result:</h3>
