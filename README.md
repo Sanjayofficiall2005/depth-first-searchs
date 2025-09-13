@@ -117,6 +117,8 @@ F H <BR>
 <h3>Sample Output</h3>
 <hr>
 ['0', '1', '2', '3', '4']
+<img width="870" height="287" alt="image" src="https://github.com/user-attachments/assets/b18578c6-86f9-4ef5-b0b7-104522a0d1a8" />
+
 
 
 <hr>
